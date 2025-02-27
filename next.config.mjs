@@ -1,9 +1,5 @@
 const nextConfig = {
-  output: "export",
-  basePath: "/portfolio-web", // Nombre del repo
-  assetPrefix: "https://xvvave.github.io/portfolio-web",
-  images: {
-    unoptimized: true, // 🔥 Desactiva la optimización de imágenes para export
-  },
+  // output: "standalone", // ❌ Comentar o eliminar esta línea
 };
+
 export default nextConfig;

@@ -13,7 +13,7 @@ const Projects = () => {
     { id: 2, title: 'Neural Mirage', category: 'A.I (Artificial Intelligence)', thumbnail: '/path/to/thumbnail2.jpg', videoUrl: '/path/to/video2.mp4', description: 'AI-generated visuals that create surreal dreamscapes, blending machine learning with artistic direction.' },
     { id: 3, title: 'Echoform', category: '3D & Animation', thumbnail: '/path/to/thumbnail3.jpg', videoUrl: '/path/to/video3.mp4', description: 'A 3D animation exploring sound visualization through organic, evolving forms.' },
     { id: 4, title: 'Circuit Pulse', category: 'Music & Sound', thumbnail: '/path/to/thumbnail4.jpg', videoUrl: '/path/to/video4.mp4', description: 'An electronic music composition with synchronized visual elements reflecting digital circuitry.' },
-    { id: 5, title: 'Resonance Bloom', category: 'Music & Sound', thumbnail: '/path/to/thumbnail5.jpg', videoUrl: '/path/to/video5.mp4', description: 'An ambient soundscape where audio frequencies generate organic visual patterns.' },
+    { id: 5, title: 'Resonance Bloom', category: 'Video Games', thumbnail: '/path/to/thumbnail5.jpg', videoUrl: '/path/to/video5.mp4', description: 'An ambient soundscape where audio frequencies generate organic visual patterns.' },
     { id: 6, title: 'Synesthetic Touch', category: 'Interactivity', thumbnail: '/path/to/thumbnail6.jpg', videoUrl: '/path/to/video6.mp4', description: 'An interactive installation translating touch into audiovisual feedback, exploring sensory crossover.' },
     { id: 7, title: 'Lumina Verge', category: '3D & Animation', thumbnail: '/path/to/thumbnail7.jpg', videoUrl: '/path/to/video7.mp4', description: 'A 3D animated short exploring light diffraction through abstract crystalline environments.' }
   ];
