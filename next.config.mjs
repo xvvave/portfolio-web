@@ -1,5 +1,7 @@
 const nextConfig = {
-  // output: "standalone", // ❌ Comentar o eliminar esta línea
+  images: {
+    unoptimized: true, // Desactiva la optimización de imágenes en next/image
+  },
 };
 
 export default nextConfig;
